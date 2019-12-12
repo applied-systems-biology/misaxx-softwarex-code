@@ -51,7 +51,7 @@ Following projects were used to compare the performance between MISA++, Python, 
 | ---------------------------- | ---------------------- |
 | misaxx-microbench            | MISA++ implementation. |
 | java-imglib2-microbench      | Java implementation.   |
-| python3-snamemake-microbench | Python implementation. | 
+| python3-snamemake-microbench | Python implementation. |
 
 ## ImageJ plugin projects
 
@@ -68,9 +68,10 @@ Following projects are related to the MISA++ ImageJ plugin:
 Following projects are part of out publication, but only provide functionality used
 by other applications:
 
-| Project        | Description                                                                                                            |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| misaxx-core    | MISA++ core library. It contains the basic MISA++ functions, such as DAG parallelization, or parameter handling.       |
-| misaxx-imaging | MISA++ OpenCV integration. Provides MISA++ data caches for single images or a directory that contains multiple images. |
-| misaxx-ome     | MISA++ OME TIFF integration. Integrates the *OME Files* library to allow reading OME TIFF files as OpenCV images.      |
-| misaxx-tissue  | MISA++ tool that segments tissue in 3D LSFM data. It is used within the glomeruli segmentation tool.                   |
+| Project               | Description                                                                                                            |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| misaxx-core           | MISA++ core library. It contains the basic MISA++ functions, such as DAG parallelization, or parameter handling.       |
+| misaxx-imaging        | MISA++ OpenCV integration. Provides MISA++ data caches for single images or a directory that contains multiple images. |
+| misaxx-ome            | MISA++ OME TIFF integration. Integrates the *OME Files* library to allow reading OME TIFF files as OpenCV images.      |
+| misaxx-tissue         | MISA++ tool that segments tissue in 3D LSFM data. It is used within the glomeruli segmentation tool.                   |
+| misaxx-ome-visualizer | Example tool that visualizes 32 bit integer label OME TIFF files as RGB.                                               | 
