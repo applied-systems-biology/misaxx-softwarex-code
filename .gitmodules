@@ -1,0 +1,60 @@
+[submodule "misaxx-core"]
+	path = misaxx-core
+	url = https://github.com/applied-systems-biology/misaxx-core.git
+[submodule "misaxx-imaging"]
+	path = misaxx-imaging
+	url = https://github.com/applied-systems-biology/misaxx-imaging.git
+[submodule "misaxx-microbench"]
+	path = misaxx-microbench
+	url = https://github.com/applied-systems-biology/misaxx-microbench.git
+[submodule "misaxx-deconvolve"]
+	path = misaxx-deconvolve
+	url = https://github.com/applied-systems-biology/misaxx-deconvolve.git
+[submodule "misaxx-segment-cells"]
+	path = misaxx-segment-cells
+	url = https://github.com/applied-systems-biology/misaxx-segment-cells.git
+[submodule "misaxx-ome"]
+	path = misaxx-ome
+	url = https://github.com/applied-systems-biology/misaxx-ome.git
+[submodule "misaxx-ome-visualizer"]
+	path = misaxx-ome-visualizer
+	url = https://github.com/applied-systems-biology/misaxx-ome-visualizer.git
+[submodule "misaxx-tissue"]
+	path = misaxx-tissue
+	url = https://github.com/applied-systems-biology/misaxx-tissue.git
+[submodule "misaxx-kidney-glomeruli"]
+	path = misaxx-kidney-glomeruli
+	url = https://github.com/applied-systems-biology/misaxx-kidney-glomeruli.git
+[submodule "misaxx-analyzer"]
+	path = misaxx-analyzer
+	url = https://github.com/applied-systems-biology/misaxx-analyzer.git
+[submodule "misa-imagej"]
+	path = misa-imagej
+	url = https://github.com/applied-systems-biology/misa-imagej.git
+[submodule "python3-snakemake-segment-cells"]
+	path = python3-snakemake-segment-cells
+	url = https://github.com/applied-systems-biology/python3-snakemake-segment-cells.git
+[submodule "python3-snakemake-deconvolve-rif"]
+	path = python3-snakemake-deconvolve-rif
+	url = https://github.com/applied-systems-biology/python3-snakemake-deconvolve-rif.git
+[submodule "python3-snakemake-microbench"]
+	path = python3-snakemake-microbench
+	url = https://github.com/applied-systems-biology/python3-snakemake-microbench.git
+[submodule "python3-snakemake-segment-glomeruli"]
+	path = python3-snakemake-segment-glomeruli
+	url = https://github.com/applied-systems-biology/python3-snakemake-segment-glomeruli.git
+[submodule "python2-custom-segment-glomeruli"]
+	path = python2-custom-segment-glomeruli
+	url = https://github.com/applied-systems-biology/python2-custom-segment-glomeruli.git
+[submodule "imglib2-segment-glomeruli"]
+	path = imglib2-segment-glomeruli
+	url = https://github.com/applied-systems-biology/imglib2-segment-glomeruli.git
+[submodule "java-imglib2-microbench"]
+	path = java-imglib2-microbench
+	url = https://github.com/applied-systems-biology/java-imglib2-microbench.git
+[submodule "java-imglib2-deconvolve-rif"]
+	path = java-imglib2-deconvolve-rif
+	url = https://github.com/applied-systems-biology/java-imglib2-deconvolve-rif.git
+[submodule "imglib2-segment-cells"]
+	path = imglib2-segment-cells
+	url = https://github.com/applied-systems-biology/imglib2-segment-cells.git
